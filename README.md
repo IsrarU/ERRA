@@ -47,5 +47,31 @@ went through design, implementation and testing before the next was added.
 
 ## Getting started
 
+## Project structure
+
+- `main.dart`, `splash_screen.dart`: app entry and launch screen
+- `sign_in_5.dart`, `signup.dart`: authentication
+- `AddContact.dart`, `ShowContact.dart`: emergency contacts
+- `AddMissingPerson.dart`, `MissingPersonList.dart`: missing person module
+- `AddComplaint.dart`, `ComplaintList.dart`: complaint module
+- `DbHelper.dart`: local database helper
+- `notification_services.dart`: notifications
+
+## Team and supervision
+
+- Muhammad Israr Ul Haq ([Team Leader, Mangning OverallProject development, database])
+- Abdul Samad Desinging
+- Muhammad Talha Front End
+- Supervisor: Dr. Muhammad Muneer Umar, Institute of Computing, KUST
+
+## Limitations and future work
+
+- Add automatic audio or sensor-based distress detection.
+- Add an admin panel for authorities to track and resolve complaints.
+- Add offline SMS fallback for areas with poor internet.
+
+## License
+
+[Add a license, e.g. MIT, or state "Academic project, all rights reserved".]
 1. Install [Flutter](https://docs.flutter.dev/get-started/install).
 2. Clone the repository:
