@@ -72,6 +72,8 @@ went through design, implementation and testing before the next was added.
 
 ## License
 
-[Add a license, e.g. MIT, or state "Academic project, all rights reserved".]
+[## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.]
 1. Install [Flutter](https://docs.flutter.dev/get-started/install).
 2. Clone the repository:
